@@ -12,10 +12,6 @@ I'm qwq3, a web developer from Europe. I've been programming since mid-2019 and 
 ![Static Badge](https://img.shields.io/badge/Framework-Next.js-blue?logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linter-Prettier-blue?logo=prettier&logoColor=white)
 
-
-## 📊 Statistics
-![](https://github-readme-stats.vercel.app/api?username=zHappySnake&show_icons=true&theme=holi)
-
 ## 📬 Contact
 ![Static Badge](https://img.shields.io/badge/Twitter-@qwqthree-blue?logo=twitter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Discord-@qwqthree-blue?logo=discord&logoColor=white)
