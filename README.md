@@ -3,8 +3,8 @@ I'm qwq3, a web developer from Europe. I've been programming since mid-2019 and 
 
 ## 🛠 Tools
 
-![Static Badge](https://img.shields.io/badge/OS-Arch-blue?logo=archlinux)
-![Static Badge](https://img.shields.io/badge/OS-macOS-blue?logo=apple)
+![Static Badge](https://img.shields.io/badge/OS-Arch-blue?logo=archlinux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Browser-Chrome-blue?logo=googlechrome&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linter-Prettier-blue?logo=prettier&logoColor=white)
