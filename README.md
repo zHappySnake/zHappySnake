@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/zHappySnake/zHappySnake/main/wave.gif" height=32>
-I'm qwq3, a web developer from Europe. I've been programming since mid-2019 and have gained experience in various web technologies and frameworks.
+I'm a web developer from Europe. I've been programming since mid-2019 and have gained experience in various web technologies and frameworks.
 
 ## 🛠 Tools
 
@@ -16,5 +16,4 @@ I'm qwq3, a web developer from Europe. I've been programming since mid-2019 and 
 ![Static Badge](https://img.shields.io/badge/Framework-Next.js-blue?logo=next.js&logoColor=white)
 
 ## 📬 Contact
-![Static Badge](https://img.shields.io/badge/Twitter-@qwqthree-blue?logo=twitter&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Discord-@qwqthree-blue?logo=discord&logoColor=white)
