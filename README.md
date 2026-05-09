@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/zHappySnake/zHappySnake/main/wave.gif" height=32>
-I'm a web developer from Europe. I've been programming since mid-2019 and have gained experience in various web technologies and frameworks.
+Heya. Just some person contributing to the internet.
 
 ## 🛠 Tools
 
